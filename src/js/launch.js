@@ -1,6 +1,6 @@
 var iss = getParameterByName('iss');
 var launch = getParameterByName('launch');
-var client_id = "bilirubin_chart";
+var client_id = "bilirubin_app";
 var scopes = "launch patient/Patient.read patient/Observation.read patient/Observation.write";
 var redirect_uri = "app.html";
 //The default_config can be changed in the pipeline to use different config files for different environments.
