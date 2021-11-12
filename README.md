@@ -1,8 +1,8 @@
-# HSPC Bilirubin Risk Chart
+# Meld Bilirubin Risk Chart
 
 ## Setup
 
-HSPC Bilirubin Risk Chart is hosted as a static web app.
+Meld Bilirubin Risk Chart is hosted as a static web app.
 
 ## Prerequisites
 
